@@ -14,7 +14,7 @@
     'website': 'https://www.mint-system.ch',
     'website': "https://www.mint-system.ch",
     'license': 'AGPL-3',
-    'version': '0.1.0',
+    'version': '13.0.0.1.1',
     'category': 'Operations',
 
     'depends': ['report_py3o'],
